@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473125188408",
+    "project_id": "c022-madass2",
+    "storage_bucket": "c022-madass2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473125188408:android:16663ee59f6f2bed5007cd",
+        "android_client_info": {
+          "package_name": "c022_mad.ass2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpeACwO110IJe0HzHa4v2acPzdLnmEplM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473125188408:android:bc9fc4566a0506735007cd",
+        "android_client_info": {
+          "package_name": "com.example.c022ass2mad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpeACwO110IJe0HzHa4v2acPzdLnmEplM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
